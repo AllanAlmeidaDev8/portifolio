@@ -9,7 +9,7 @@ body{
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--corPrimaria);
-    color: var(--fonte-secundaria);
+    color: var(--corSecudaria);
     
 }
 :root{
@@ -44,12 +44,6 @@ body{
     
 }
 
-
-.cabecalho__menu__link:hover{
-    border-bottom: 2px solid var(--corTerciaria);
-    
-    
-}
 .foto{
     position: absolute;
     width: 400px;
